@@ -11,7 +11,7 @@
 	<groupId>com.tcs</groupId>
 	<artifactId>tcs-devops-architect-AK</artifactId>
 	<version>1.0.0</version>
-	<packaging></packaging>
+	<packaging>jar</packaging>
 	<name>tcs-devops-architect-AK</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
